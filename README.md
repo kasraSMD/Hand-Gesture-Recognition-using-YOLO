@@ -1,1 +1,1 @@
-# Hand-Texture-Detection-with-YOLO
+# Hand-Gesture-Recognition-with-YOLO
