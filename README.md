@@ -1,1 +1,1 @@
-# Hand-Gesture-Recognition-with-YOLO
+# Hand-Gesture-Recognition-using-YOLO
