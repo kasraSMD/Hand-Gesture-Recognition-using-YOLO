@@ -34,7 +34,9 @@ This project focuses on **Hand Gesture Recognition** using the YOLO object detec
 
 ### 4. Evaluation
 - The model was evaluated on the validation dataset, producing the following results:  
-  *(Add your evaluation results here, including precision, recall, and mAP scores. Optionally, include a table or graph.)*
+![image](https://github.com/user-attachments/assets/fcc8ebaa-1f9a-4303-95b0-ee702eadb507)
+![image](https://github.com/user-attachments/assets/b6c8238c-7163-4c43-9095-0a23bdcb724a)
+
 
 ## Usage
 
