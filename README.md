@@ -74,7 +74,9 @@ Below are some example results from the trained model:
 Hand-Gesture-Recognition/
 ├── F1_GenerateDataset.py        # Script to capture gesture images
 ├── F2_CreateYOLO_Dataset.py     # Script to convert XML annotations to YOLO format
+├── F3_Train_YOLO.ipynb          # notebooks that uses for train YOLO model
 ├── HandGestureRecognition.py    # Script for real-time gesture detection
+├── YOLO_dataset/                 # YOLO-compatible annotations
 ├── YOLO_labels/                 # YOLO-compatible annotations
 └── runs/                        # Folder containing trained models
 ```
