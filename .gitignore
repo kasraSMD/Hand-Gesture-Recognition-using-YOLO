@@ -10,3 +10,5 @@
 *.onnx
 !/Hand-Gesture-Recognition/runs/detect/gesture_detection/weights/best.pt
 !/Hand-Gesture-Recognition/runs/detect/gesture_detection/weights/last.pt
+!/Hand-Gesture-Recognition/YOLO_labels/classes.txt
+!/Hand-Gesture-Recognition/YOLO_dataset/data.yaml
