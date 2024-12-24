@@ -55,8 +55,8 @@ python HandGestureRecognition.py
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hand-gesture-recognition.git
-   cd hand-gesture-recognition
+   git clone https://github.com/kasraSMD/Hand-Gesture-Recognition-using-YOLO.git
+   cd Hand-Gesture-Recognition
    ```
 2. Install the required dependencies:
    ```bash
@@ -71,14 +71,12 @@ Below are some example results from the trained model:
 ## File Structure
 
 ```
-hand-gesture-recognition/
+Hand-Gesture-Recognition/
 ├── F1_GenerateDataset.py        # Script to capture gesture images
 ├── F2_CreateYOLO_Dataset.py     # Script to convert XML annotations to YOLO format
 ├── HandGestureRecognition.py    # Script for real-time gesture detection
 ├── YOLO_labels/                 # YOLO-compatible annotations
-├── runs/                        # Folder containing trained models
-├── requirements.txt             # Dependencies
-└── README.md                    # Project documentation
+└── runs/                        # Folder containing trained models
 ```
 
 ## Contributing
