@@ -63,11 +63,6 @@ python HandGestureRecognition.py
    pip install -r requirements.txt
    ```
 
-## Example Results
-
-Below are some example results from the trained model:  
-*(Add images or GIFs here showing the model detecting hand gestures in real-time.)*
-
 ## File Structure
 
 ```
