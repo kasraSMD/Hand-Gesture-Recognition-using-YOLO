@@ -1,0 +1,12 @@
+*.jpg
+!/guide.jpg
+*.png
+*.xml
+*.pt
+*.csv
+*.yaml
+*.txt
+*.cache
+*.onnx
+!/Hand-Gesture-Recognition/runs/detect/gesture_detection/weights/best.pt
+!/Hand-Gesture-Recognition/runs/detect/gesture_detection/weights/last.pt
