@@ -62,7 +62,10 @@ python HandGestureRecognition.py
    ```bash
    pip install -r requirements.txt
    ```
-
+3. Run Project:
+   ```bash
+   python HandGestureRecognition.py
+   ``
 ## File Structure
 
 ```
