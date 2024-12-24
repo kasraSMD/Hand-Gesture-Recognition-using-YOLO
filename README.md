@@ -11,7 +11,8 @@ This project focuses on **Hand Gesture Recognition** using the YOLO object detec
   - **Validation Set:** 300 images.  
 
 ### Gesture Classes
-*(Add an image here showing the 15 hand gestures.)*
+![Guide](https://github.com/user-attachments/assets/79cd6f9e-2151-4b67-8d23-14d71c9ae4bd)
+
 
 ## Workflow
 
