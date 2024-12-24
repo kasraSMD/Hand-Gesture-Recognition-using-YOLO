@@ -65,7 +65,7 @@ python HandGestureRecognition.py
 3. Run Project:
    ```bash
    python HandGestureRecognition.py
-   ``
+   ```
 ## File Structure
 
 ```
