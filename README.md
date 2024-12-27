@@ -57,6 +57,7 @@ python HandGestureRecognition.py
    ```bash
    git clone https://github.com/kasraSMD/Hand-Gesture-Recognition-using-YOLO.git
    cd Hand-Gesture-Recognition-using-YOLO
+   cd Hand-Gesture-Recognition
    ```
 2. Install the required dependencies:
    ```bash
