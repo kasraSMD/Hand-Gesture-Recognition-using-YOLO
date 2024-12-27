@@ -67,6 +67,11 @@ python HandGestureRecognition.py
    ```bash
    python HandGestureRecognition.py
    ```
+
+ 4. Exit from Project:
+ ```bash
+ press q key on keyboard
+ ```
 ## File Structure
 
 ```
