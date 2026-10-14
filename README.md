@@ -72,10 +72,10 @@ flowchart LR
 Evaluation on the validation set:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fcc8ebaa-1f9a-4303-95b0-ee702eadb507" alt="Validation results 1" width="48%">
+  <img src="https://github.com/user-attachments/assets/fcc8ebaa-1f9a-4303-95b0-ee702eadb507" alt="Validation results 1" width="68%">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b6c8238c-7163-4c43-9095-0a23bdcb724a" alt="Validation results 2" width="48%">
+  <img src="https://github.com/user-attachments/assets/b6c8238c-7163-4c43-9095-0a23bdcb724a" alt="Validation results 2" width="68%">
 </p>
 
 ---
