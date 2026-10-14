@@ -73,7 +73,8 @@ Evaluation on the validation set:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fcc8ebaa-1f9a-4303-95b0-ee702eadb507" alt="Validation results 1" width="48%">
-  
+</p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/b6c8238c-7163-4c43-9095-0a23bdcb724a" alt="Validation results 2" width="48%">
 </p>
 
@@ -150,6 +151,8 @@ Released under the [MIT License](LICENSE).
 
 <div align="center">
 
-Made by [**kasraSMD**](https://github.com/kasraSMD) · If you find this useful, consider giving it a ⭐
+⭐ If you find this repository useful, please consider giving it a star! ⭐
+
+Made with ❤️ by [kasraSMD](https://github.com/kasraSMD)
 
 </div>
